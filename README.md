@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... verious thing which relevent for data science.
 - 💞️ I’m looking to collaborate on ...  Data Science
 - 📫 How to reach me ...
-- Linked In: 
+- LinkedIn: linkedin.com/puspraj-kumar
 - Email Id: pusprajcs@gmail.com
 - Mobile No.: 7903176169
 <!---
